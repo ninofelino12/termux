@@ -1,5 +1,4 @@
-# termux
-# termux
-# termux
-# termux
-# termux
+Termux
+
+Termux project For odoo
+
